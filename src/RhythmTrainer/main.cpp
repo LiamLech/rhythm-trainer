@@ -21,4 +21,6 @@ int main() {
 	std::cout << "Test completed. Press Enter to exit..." << std::endl;
 	std::cin.get();
 	return 0;
-}"// Email privacy test" 
+}
+
+// Email privacy test 
